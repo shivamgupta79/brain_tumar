@@ -1,5 +1,8 @@
 # Brain_tumar
 #Result 
+
+
+
 ![rh](https://github.com/user-attachments/assets/c22b9743-b082-4d77-9d80-3842b1cc5e5b)
 Fig (5.1) Training and Validation accuracy
 
