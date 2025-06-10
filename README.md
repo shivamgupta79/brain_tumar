@@ -4,7 +4,7 @@
 
 
 ![rh](https://github.com/user-attachments/assets/c22b9743-b082-4d77-9d80-3842b1cc5e5b)
-Fig (5.1) Training and Validation accuracy
+Fig. Training and Validation accuracy
 
 Front-end display
 
@@ -12,7 +12,7 @@ Front-end display
  
 
 ![result](https://github.com/user-attachments/assets/a38558de-4533-4440-98d4-af15a059b2b8)
-Fig (5.3) Prediction Result
+Fig. Prediction Result
 
 
 
