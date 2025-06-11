@@ -7,7 +7,7 @@ from werkzeug.utils import secure_filename
 
 app = Flask(__name__, template_folder='C:/Users/Gupta Family/Desktop/brain project/templates')
 
-# Configure folder to save uploaded images
+# Configure folder to save uploaded image
 UPLOAD_FOLDER = 'static/uploads'
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
