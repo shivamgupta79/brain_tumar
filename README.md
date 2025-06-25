@@ -95,53 +95,7 @@ Edit
 
 ## 📊 Flowchart
 
-Here's the flowchart as text. You can convert it into an actual diagram using [draw.io](https://app.diagrams.net/) or [Lucidchart](https://www.lucidchart.com/).
-
-```plaintext
-        +------------------+
-        |   User Uploads   |
-        |   MRI Image      |
-        +--------+---------+
-                 |
-                 v
-        +---------------------+
-        |  Flask Backend API  |
-        |  (app.py)           |
-        +--------+------------+
-                 |
-                 v
-        +---------------------+
-        |   Save Image        |
-        |   (uploads folder)  |
-        +--------+------------+
-                 |
-                 v
-        +-----------------------------+
-        |  Preprocess Image (cv2)     |
-        |  Resize to 224x224, Normalize|
-        +-------------+---------------+
-                      |
-                      v
-        +-----------------------------+
-        |     Load Trained Model      |
-        |     (trained_model.h5)      |
-        +-------------+---------------+
-                      |
-                      v
-        +-----------------------------+
-        |   Predict Tumor Class       |
-        |   (Yes / No)                |
-        +-------------+---------------+
-                      |
-                      v
-        +-----------------------------+
-        |     Return Result HTML      |
-        |  Display Image + Prediction |
-        +-----------------------------+
-Would you like me to genera
-
-
-
+![Gemini_Generated_Image_6ka8636ka8636ka8](https://github.com/user-attachments/assets/3a274d3b-966a-4c93-801b-d1556fbe789c)
 
 
 
